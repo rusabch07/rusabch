@@ -1,3 +1,13 @@
+# Hi 👋, I'm Muhammad Rusab Chaudhary
+
+🎓 Electrical Engineering Student @ UET Lahore  
+💻 Python Developer | Embedded Systems & IoT Enthusiast  
+⚡ Exploring the intersection of Electrical Engineering and Software Development
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Electrical+Engineering+Student;Python+Developer;Embedded+Systems+Enthusiast;Building+Projects+That+Solve+Problems" />
+</p>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat)](www.linkedin.com/in/muhammad-rusab-chaudhary-494a0038a)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat)](mailto:m.rusabch07@gmail.com)
