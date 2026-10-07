@@ -5,8 +5,6 @@
 
 ## 💻 Tech Stack:
 
-## 💻 Tech Stack:
-
 ![Python](https://img.shields.io/badge/PYTHON-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -26,7 +24,9 @@
 ## 📊 GitHub Stats:
 
 ![Streak](https://streak-stats.demolab.com?user=rusabch07&theme=dark)
+
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rusabch07&theme=github_dark)
+
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rusabch07&theme=github_dark)
 
 ## 💬 Random Dev Quote:
