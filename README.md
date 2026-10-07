@@ -22,10 +22,13 @@
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 📊 GitHub Stats:
 
 ## 📊 GitHub Stats:
 
 ![Streak](https://streak-stats.demolab.com?user=rusabch07&theme=dark)
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rusabch07&theme=github_dark)
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rusabch07&theme=github_dark)
+
+## 💬 Random Dev Quote:
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
