@@ -1,7 +1,7 @@
 ## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat)](www.linkedin.com/in/muhammad-rusab-chaudhary-494a0038a)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat)](mailto:m.rusabch07@gmail.com)
 
-[![LinkedIn](www.linkedin.com/in/muhammad-rusab-chaudhary-494a0038a)](LINKEDIN_URL)
-[![Email](m.rusabch07@gmail.com)](mailto:EMAIL)
 
 ## 💻 Tech Stack:
 
@@ -18,6 +18,5 @@
 
 ## 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=dark)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?rusabch07=rusabch07&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?rusabch07=rusabch07&layout=compact&theme=dark)
