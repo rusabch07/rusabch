@@ -24,5 +24,8 @@
 
 ## 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?rusabch07=rusabch07&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?rusabch07=rusabch07&layout=compact&theme=dark)
+## 📊 GitHub Stats:
+
+![Streak](https://streak-stats.demolab.com?user=rusabch07&theme=dark)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rusabch07&theme=github_dark)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rusabch07&theme=github_dark)
